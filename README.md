@@ -1,4 +1,4 @@
-## Oii eu sou o Igor Ribeiro, estudante de programação
+## Oii me chamo Igor Ribeiro, sou estudante de programação!
 <div align="left">
   <a href="https://github.com/Bkuste2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bkuste2&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
