@@ -1,4 +1,6 @@
 ## Oii me chamo Igor Ribeiro, sou estudante de programação!
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
 <div align="left">
   <a href="https://github.com/Bkuste2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bkuste2&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -8,6 +10,9 @@
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Igor-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img align="center" alt="Igor-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+    
   <img align="right" alt="igor-pic" height="150" style="border-radius:10px;" src="https://cdn.discordapp.com/attachments/547180078443003915/932916877993328690/Eu.png">
 </div>
   
