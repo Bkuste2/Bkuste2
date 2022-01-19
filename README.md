@@ -13,7 +13,7 @@
   <img align="center" alt="Igor-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img align="center" alt="Igor-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
     
-  <img align="right" alt="igor-pic" height="300" style="border-radius:10px;" src="https://cdn.discordapp.com/attachments/933196017048887377/933200411857395722/eu2.png">
+  <img align="right" alt="igor-pic" height="300" src="https://cdn.discordapp.com/attachments/933196017048887377/933200411857395722/eu2.png">
 </div>
   
   ##
