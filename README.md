@@ -1,5 +1,5 @@
 <div align="center" class="teste">
-<h1>Oii me chamo Igor Ribeiro, sou estudante de programação!</h1>
+<h1>Oi me chamo Igor Ribeiro, sou estudante de programação!</h1>
 </div>  
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
