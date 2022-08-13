@@ -20,7 +20,7 @@
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-Node" height="30" width="40" src="https://cdn.discordapp.com/attachments/933196017048887377/973780771267547166/Design_sem_nome_21.png">
   <img align="center" alt="Igor-React" height="30" width="40" src="https://cdn.discordapp.com/attachments/933196017048887377/995788468988940368/postgresql_1.png"/> 
-   <img align="center" alt="Igor-jQuery" height="30" width="40" src="https://cdn.discordapp.com/attachments/933196017048887377/980671548925018112/jQuery.png" />
+  <img align="center" alt="Igor-jQuery" height="30" width="40" src="https://cdn.discordapp.com/attachments/933196017048887377/980671548925018112/jQuery.png" />
   <img align="center" alt="Igor-gulp" height="30" width="40" src="https://media.discordapp.net/attachments/933196017048887377/983395171855134770/Texto_do_seu_paragrafo_800_600_px.png?width=535&height=401" />
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -32,7 +32,7 @@
   
   ##
   
-<div> 
+<div > 
   <a href="https://www.instagram.com/igorribeiro632/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/igor-medeiros-ribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.gg/Fh9qv7SF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -41,3 +41,4 @@
   ![Snake animation](https://github.com/Bkuste2/Bkuste2/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
