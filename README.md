@@ -15,7 +15,7 @@
   
 
   
-  <h1> Tecnologias que eu conheço </h1>
+  <h1> Technologies I know </h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-Node" height="30" width="40" src="https://cdn.discordapp.com/attachments/933196017048887377/973780771267547166/Design_sem_nome_21.png">
