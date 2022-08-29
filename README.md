@@ -18,17 +18,20 @@
   
   <h1> Technologies I know </h1>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Igor-Node" height="30" width="40" src="https://cdn.discordapp.com/attachments/933196017048887377/973780771267547166/Design_sem_nome_21.png">
-  <img align="center" alt="Igor-React" height="30" width="40" src="https://cdn.discordapp.com/attachments/933196017048887377/995788468988940368/postgresql_1.png"/> 
-  <img align="center" alt="Igor-jQuery" height="30" width="40" src="https://cdn.discordapp.com/attachments/933196017048887377/980671548925018112/jQuery.png" />
-  <img align="center" alt="Igor-gulp" height="30" width="40" src="https://media.discordapp.net/attachments/933196017048887377/983395171855134770/Texto_do_seu_paragrafo_800_600_px.png?width=535&height=401" />
-  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Igor-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img align="center" alt="Igor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Igor-Spring" height="30" width="40" src="https://cdn.discordapp.com/attachments/933196017048887377/976967659285536779/Sem_nome_80_60_px.png" />
-  <img align="center" alt="Igor-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+<div style="display: inline_block"><br>
+    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img height=40 width=40  src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
+    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
   
   ##
