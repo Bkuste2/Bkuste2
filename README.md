@@ -7,7 +7,7 @@
 
 <div align="center" class="teste">
   <a href="https://github.com/Bkuste2" >
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bkuste2&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bkuste2&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkuste2&layout=compact&langs_count=7&theme=midnight-purple"/> -->
   <a href="http://www.github.com/bkuste2">
       <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Bkuste2&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats" />
