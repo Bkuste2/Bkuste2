@@ -1,5 +1,11 @@
-<h1>Hello my name is Igor Ribeiro, I'm a full stack developer!</h1>
+<!-- <h1>Hello my name is Igor Ribeiro, I'm a full stack developer!</h1> -->
+```ts
+function sayHelloToVisitors(visitorName: string): string {
+  console.log(`Hello ${visitorName}, welcome to my profile!`)
+}
+```
 
+# Analyzes
 <div style="display: flex;justify-content: space-between;">
   <a href="https://github.com/Bkuste2">
     <img height="160em"
@@ -10,7 +16,6 @@
       src="https://github-readme-streak-stats.herokuapp.com?user=Bkuste2&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats" />
   </a>
 </div>
-
 
 <h1> Technologies I know </h1>
 <br>
