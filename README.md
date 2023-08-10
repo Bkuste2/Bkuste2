@@ -1,9 +1,4 @@
-
-```ts
-function sayHelloToVisitors(visitorName: string): string {
-  console.log(`Hello ${visitorName}, welcome to my profile!`)
-}
-```
+<img src="https://cdn.discordapp.com/attachments/925612953686904893/1139032738280779840/function.png"/>
 
 # Analyzes
 <div align="center">
