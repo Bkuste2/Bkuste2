@@ -17,22 +17,9 @@
 
   
   <h1> Technologies I know </h1>
-<div style="display: inline_block"><br>
-<div style="display: inline_block"><br>
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img height=40 width=40  src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-</div>
+  <br>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,jest,nextjs,react,svelte,tailwind,styledcomponents,express,sequelize,prisma,graphql,nestjs,java,spring,py,fastapi,selenium,mongodb,mysql,postgres,git,github,docker,vercel,heroku,figma" />
+
   
   ##
   
