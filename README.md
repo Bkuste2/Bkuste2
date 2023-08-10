@@ -1,4 +1,4 @@
-<!-- <h1>Hello my name is Igor Ribeiro, I'm a full stack developer!</h1> -->
+
 ```ts
 function sayHelloToVisitors(visitorName: string): string {
   console.log(`Hello ${visitorName}, welcome to my profile!`)
@@ -17,11 +17,11 @@ function sayHelloToVisitors(visitorName: string): string {
   </a>
 </div>
 
-<h1> Technologies I know </h1>
-<br>
+# Technologies I know
 <img
   src="https://skillicons.dev/icons?i=js,ts,nodejs,jest,nextjs,react,svelte,tailwind,styledcomponents,express,sequelize,prisma,graphql,nestjs,java,spring,py,fastapi,selenium,mongodb,mysql,postgres,redis,docker,git,github,githubactions,vercel,heroku,figma" />
 
+### Connect with me
 <div>
   <a href="https://www.instagram.com/igorribeiro632/" target="_blank"><img
       src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
@@ -29,9 +29,6 @@ function sayHelloToVisitors(visitorName: string): string {
   <a href="https://www.linkedin.com/in/igor-medeiros-ribeiro" target="_blank"><img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       target="_blank"></a>
-<!--   <a href="https://discord.gg/Fh9qv7SF" target="_blank"><img
-      src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-      target="_blank"></a> -->
   <a href="mailto:contato.igormedeirosribeiro@gmail.com"><img
       src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
       target="_blank"></a>
