@@ -29,10 +29,10 @@ function sayHelloToVisitors(visitorName: string): string {
   <a href="https://www.linkedin.com/in/igor-medeiros-ribeiro" target="_blank"><img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       target="_blank"></a>
-  <a href="https://discord.gg/Fh9qv7SF" target="_blank"><img
+<!--   <a href="https://discord.gg/Fh9qv7SF" target="_blank"><img
       src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-      target="_blank"></a>
-  <a href="mailto:igormr632@gmail.com"><img
+      target="_blank"></a> -->
+  <a href="mailto:contato.igormedeirosribeiro@gmail.com"><img
       src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
       target="_blank"></a>
 </div>
