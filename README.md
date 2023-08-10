@@ -6,7 +6,7 @@ function sayHelloToVisitors(visitorName: string): string {
 ```
 
 # Analyzes
-<div style="display: flex;justify-content: space-between;">
+<div align="center">
   <a href="https://github.com/Bkuste2">
     <img height="160em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkuste2&layout=compact&langs_count=7&theme=midnight-purple" />
