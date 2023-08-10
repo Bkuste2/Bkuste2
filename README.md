@@ -18,7 +18,7 @@
   
   <h1> Technologies I know </h1>
   <br>
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,jest,nextjs,react,svelte,tailwind,styledcomponents,express,sequelize,prisma,graphql,nestjs,java,spring,py,fastapi,selenium,mongodb,mysql,postgres,git,github,docker,vercel,heroku,figma" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,jest,nextjs,react,svelte,tailwind,styledcomponents,express,sequelize,prisma,graphql,nestjs,java,spring,py,fastapi,selenium,mongodb,mysql,postgres,redis,docker,git,github,githubactions,vercel,heroku,figma" />
 
   
   ##
