@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/925612953686904893/1139032738280779840/function.png"/>  
  
-# Analyzes 
+# Analyzes  
 <div align="center">
   <img height="170em"
     src="https://github-readme-streak-stats.herokuapp.com?user=Bkuste2&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats" 
